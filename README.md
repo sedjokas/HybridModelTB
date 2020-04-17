@@ -1,8 +1,6 @@
-###############################################################################################                               
 # Framework : PhD in mathematical sciences                                                    #
 # Author: Selain Kasereka                                                                     #
 # Supervisors : Emile-Franc Doungmo Goufo and Vinh Ho Tuong                                   #
-###############################################################################################
 
 This model is A hybrid meta-populationnal model that couple ABM and EBM, the dynamics of the disease is managed by the       differential   equations solved by the rk4 method in each city. The bihavior of all andividuals is considered          separetly and managed by ABM. 
 
