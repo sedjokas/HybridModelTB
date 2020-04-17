@@ -1,4 +1,4 @@
-# MODEL 4                                                                                     #
+# MODEL 4 : hybrid meta-populationnal model                                                   #
 # Framework : PhD in mathematical sciences                                                    #
 # Author: Selain Kasereka                                                                     #
 # Supervisors : Emile-Franc Doungmo Goufo and Vinh Ho Tuong                                   #
