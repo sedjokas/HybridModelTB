@@ -1,3 +1,4 @@
+# MODEL 4                                                                                     #
 # Framework : PhD in mathematical sciences                                                    #
 # Author: Selain Kasereka                                                                     #
 # Supervisors : Emile-Franc Doungmo Goufo and Vinh Ho Tuong                                   #
